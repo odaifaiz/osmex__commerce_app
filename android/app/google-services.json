@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827871468249",
+    "project_id": "assignment-de1ae",
+    "storage_bucket": "assignment-de1ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827871468249:android:f7685ad6c845793739bcc8",
+        "android_client_info": {
+          "package_name": "com.samana.samana_bakery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOwJnEjdjOOvBhwVIvDXXFG4hm1L2s4u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
